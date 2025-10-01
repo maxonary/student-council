@@ -87,15 +87,14 @@ Each ballot for Academic Senate and Study Program Council includes both a main s
 
 (1) An elected representative gets automatically removed from office if they
 
+1. lose eligibility,
 
-    1. lose eligibility,
-
-
-    2. resign from office.
+2. resign from office.
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
 (3a) If a member of the Academic Senate is not able to attend a meeting, the deputy member can take the place.
+
 (3b) If a member of a Study Program Council is not able to attend a meeting, the deputy member can take the place.
 
 (4) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Vacancies in Academic Senate or Study Program Council seats are filled by program-specific by-elections. Until then, the President may assign interim coverage to another Council member.
