@@ -38,7 +38,7 @@ These statutes regulate in particular the education, composition, responsibility
 6. Entrepreneurship,
 7. Partnerships.
 
-In addition, student representatives to the Academic Senate and to the Study Program Councils are elected under the University's Election Regulations. Every candidate for a Student Council portfolio role is automatically also nominated for the Academic Senate and the Study Program Council seat of their own study program.
+In addition, student representatives to the Academic Senate and to the Study Program Councils are elected under the University's [Election Regulations](https://www.notion.so/codeuniversitywiki/University-Regulations-828ab80d0edf409d992870947bdbbdd6). Every candidate for a Student Council portfolio role is automatically also nominated for the Academic Senate and the Study Program Council seat of their own study program.
 For each Academic Senate and Study Program Council seat, one deputy member is also elected in the same election.
 
 These representatives may, but do not have to, be members of the Student Council. They are invited to Council meetings when their topics are discussed.
