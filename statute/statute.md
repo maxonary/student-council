@@ -62,51 +62,19 @@ Each ballot for Academic Senate and Study Program Council includes both a main s
 
 (4) All portfolio roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination.
 
-(5) Gender equity safeguard. To ensure equitable representation, the Student Council composition must reflect gender diversity as follows:
+(5) Ranked-choice voting system:
+- Voters rank all candidates in order of preference
+- If no candidate receives 50%+1 first-choice votes, the lowest-ranked candidate is eliminated
+- Votes for eliminated candidates transfer to voters' next choice
+- Process continues until one candidate reaches majority
 
-a) The underrepresented gender at CODE (determined by enrollment statistics, currently women) must hold at least the greater of:
-   - The percentage of that gender in the student body (rounded to nearest whole number), OR
-   - 25% of Council seats (minimum 2 of 8 portfolios)
+(6) In a ranked-choice election, each voter casts one ballot ranking all candidates.
 
-b) Calculation method: The required number of seats is calculated by multiplying the Council size by the underrepresented gender percentage, then rounding to the nearest whole number (0.5 and above rounds up). However, the minimum requirement is always 2 seats regardless of the calculated percentage.
-   
-   Example: With 8 Council seats and 20% women in the student body:
-   - Calculation: 8 × 0.20 = 1.6 → rounds up to 2
-   - Applied requirement: 2 seats
-   
-   Example: With 8 Council seats and 35% women in the student body:
-   - Calculation: 8 × 0.35 = 2.8 → rounds up to 3
-   - Applied requirement: 3 seats
-   
-   Example: With 8 Council seats and 15% women in the student body:
-   - Calculation: 8 × 0.15 = 1.2 → rounds down to 1
-   - Applied minimum: 2 seats (the 25% minimum applies)
+(7) Only one ballot per person can be cast.
 
-c) The Representation & Equity portfolio must be held by a member of the underrepresented gender at CODE.
+(8) Every elected representative can be released from their duties at any point according to the principles of majority voting described in §4(5).
 
-d) For the purpose of this provision, gender is determined based on available enrollment data (male/female). Students who identify as non-binary, trans, agender, or other gender identities are considered part of the underrepresented group and may hold any portfolio including those designated for the underrepresented gender.
-
-(6) Quota validation and appointment process:
-
-a) After all portfolio elections are completed, the Council composition is validated against the requirements in § 4(5).
-
-b) If the quota is not met through regular elections:
-   1. The next-highest voted candidate(s) from the underrepresented gender shall be appointed to fulfill the quota.
-   2. Appointed candidates shall be assigned to portfolios in order of their vote count, in coordination with already-elected members to avoid conflicts.
-   3. If necessary, the lowest-voted elected candidate from the overrepresented gender may be replaced to make room for quota fulfillment.
-
-c) If insufficient candidates from the underrepresented gender participated in the election to meet the quota, the Council shall:
-   1. Actively recruit candidates from the underrepresented gender within 14 days,
-   2. Hold a special election for the remaining seats reserved for the underrepresented gender,
-   3. If recruitment is unsuccessful, the Council may operate with vacant seats until the quota can be fulfilled.
-
-(7) The members of the organs are elected according to the principles of majority voting. The person with the most votes, but at least 50% + 1 votes gets elected. If no candidate manages to achieve this majority a final ballot between the person with the most votes and the runner up is held. The person with the most votes in the final ballot is elected.
-
-(8) In a majority election, the voting person has as many votes as there are positions to be filled.
-
-(9) Only one vote per person can be cast.
-
-(10) Every elected representative can be released from their duties at any point according to the principles of majority voting described in §4(7).
+(9) Diversity monitoring: The Council shall annually report on the demographic composition of candidates and elected representatives to identify barriers to participation and track progress toward inclusive representation.
 
 
 ## 5 - Terms of office, rotation
@@ -139,7 +107,7 @@ c) If insufficient candidates from the underrepresented gender participated in t
 
 (4) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Vacancies in Academic Senate or Study Program Council seats are filled by program-specific by-elections. Until then, the President may assign interim coverage to another Council member.
 
-(5) If a vacancy affects the gender quota as defined in § 4(5), the by-election must prioritize candidates from the underrepresented gender to maintain quota compliance.
+(5) By-elections follow the same ranked-choice voting system as regular elections.
 
 
 ## 7 - Convening
@@ -254,7 +222,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (7) Partnerships. Intake and triage of external requests (investors, student initiatives, events/partners); escalates MoUs to the University where required.
 
-(8) Representation & Equity. Ensures diversity, inclusion, and equitable representation within all council activities; acts as a point of contact for underrepresented groups; reviews council initiatives through an equity lens; monitors election and appointment processes for fairness. This portfolio must be held by a member of the underrepresented gender at CODE.
+(8) Representation & Equity. Ensures diversity, inclusion, and equitable representation within all council activities; acts as a point of contact for underrepresented groups; reviews council initiatives through an equity lens; monitors election and appointment processes for fairness.
 
 (9) Portfolios may form working groups; non-members can be recruited as volunteers.
 
